@@ -1,7 +1,5 @@
 package com.insanexs.designpattern.structural.adapter;
 
-import com.insanexs.designpattern.structural.adapter.ChinaMadeDevice;
-import com.insanexs.designpattern.structural.adapter.USAPower;
 import com.insanexs.designpattern.structural.adapter.classadapter.USAPowerClassAdapter;
 import com.insanexs.designpattern.structural.adapter.objectadapter.USAPowerObjectAdapter;
 
